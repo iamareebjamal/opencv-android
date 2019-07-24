@@ -1,0 +1,24 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/code
+    docker:
+      - image: circleci/android:api-26-alpha
+    steps:
+      - checkout
+      - restore_cache:
+          key: jars-{{ checksum "build.gradle" }}-{{ checksum  "setup_opencv.sh" }}
+      - run:
+          name: Download and Setup OpenCV
+          command: ./setup_opencv.sh
+      - save_cache:
+          paths:
+            - ~/.gradle
+            - ./cache
+          key: jars-{{ checksum "build.gradle" }}-{{ checksum  "setup_opencv.sh" }}
+      - run:
+          name: Run Build
+          command: ./gradlew build
+      - store_artifacts:
+          path: opencv/build/outputs
+          destination: outputs
