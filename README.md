@@ -28,7 +28,23 @@ dependencies {
 }
 ```
 
-**Note:** Replace `<tag>` with actual release. See latest release on the badge on top of README 
+**Note:** Replace `<tag>` with actual release. See latest releases [here](https://github.com/iamareebjamal/opencv-android/releases)
+
+### Releases
+
+#### Core
+
+##### 4.x
+- [4.1.0](https://github.com/iamareebjamal/opencv-android/releases/tag/4.1.0)
+- [4.0.1](https://github.com/iamareebjamal/opencv-android/releases/tag/4.0.1)
+
+##### 3.x
+- [3.4.6](https://github.com/iamareebjamal/opencv-android/releases/tag/3.4.6)
+
+#### Contrib
+- [4.1.1-pre-contrib](https://github.com/iamareebjamal/opencv-android/releases/tag/4.1.1-pre-contrib)
+
+###
 
 ### License
 [OpenCV License](https://github.com/opencv/opencv/blob/master/LICENSE)
