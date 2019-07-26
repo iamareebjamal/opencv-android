@@ -35,6 +35,7 @@ dependencies {
 #### Core
 
 ##### 4.x
+- [4.1.1](https://github.com/iamareebjamal/opencv-android/releases/tag/4.1.1)
 - [4.1.0](https://github.com/iamareebjamal/opencv-android/releases/tag/4.1.0)
 - [4.0.1](https://github.com/iamareebjamal/opencv-android/releases/tag/4.0.1)
 
