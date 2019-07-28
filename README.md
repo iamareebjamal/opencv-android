@@ -32,20 +32,18 @@ dependencies {
 
 ### Releases
 
-#### Core
+#### 4.x
+- [4.1.1-contrib](https://jitpack.io/#iamareebjamal/opencv-android/4.1.1-contrib)
+- [4.1.1](https://jitpack.io/#iamareebjamal/opencv-android/4.1.1)
+- [4.1.0](https://jitpack.io/#iamareebjamal/opencv-android/4.1.0)
+- [4.0.1](https://jitpack.io/#iamareebjamal/opencv-android/4.0.1)
 
-##### 4.x
-- [4.1.1](https://github.com/iamareebjamal/opencv-android/releases/tag/4.1.1)
-- [4.1.0](https://github.com/iamareebjamal/opencv-android/releases/tag/4.1.0)
-- [4.0.1](https://github.com/iamareebjamal/opencv-android/releases/tag/4.0.1)
+#### 3.x
+- [3.4.7-contrib](https://jitpack.io/#iamareebjamal/opencv-android/3.4.7-contrib)
+- [3.4.7](https://jitpack.io/#iamareebjamal/opencv-android/3.4.7)
+- [3.4.6](https://jitpack.io/#iamareebjamal/opencv-android/3.4.6)
 
-##### 3.x
-- [3.4.6](https://github.com/iamareebjamal/opencv-android/releases/tag/3.4.6)
-
-#### Contrib
-- [4.1.1-pre-contrib](https://github.com/iamareebjamal/opencv-android/releases/tag/4.1.1-pre-contrib)
-
-###
+**Note:** `-contrib` releases include extra contrib modules not found in core releases
 
 ### License
 [OpenCV License](https://github.com/opencv/opencv/blob/master/LICENSE)
