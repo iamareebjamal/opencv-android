@@ -11,7 +11,7 @@ if [[ $1 = "--skip-download" ]]; then
     echo "Skipping Download of ${opencv_sdk_zip}..."
 else
     echo "Downloading ${opencv_sdk_zip}..."
-    download_url="https://github.com/opencv/opencv/releases/download/${opencv_version}/opencv-${opencv_version}-android-sdk.zip"
+    download_url="https://pullrequest.opencv.org/buildbot/export/opencv_releases/3_4-contrib_pack-contrib-android/20190727-061007--422/OpenCV4Android.zip"
     echo "Download URL: ${download_url}"
     wget -c -O ${opencv_sdk_zip} ${download_url}
 fi
