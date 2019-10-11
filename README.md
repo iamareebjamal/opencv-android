@@ -33,12 +33,16 @@ dependencies {
 ### Releases
 
 #### 4.x
+- [4.1.2-contrib](https://jitpack.io/#iamareebjamal/opencv-android/4.1.2-contrib)
+- [4.1.2](https://jitpack.io/#iamareebjamal/opencv-android/4.1.2)
 - [4.1.1-contrib](https://jitpack.io/#iamareebjamal/opencv-android/4.1.1-contrib)
 - [4.1.1](https://jitpack.io/#iamareebjamal/opencv-android/4.1.1)
 - [4.1.0](https://jitpack.io/#iamareebjamal/opencv-android/4.1.0)
 - [4.0.1](https://jitpack.io/#iamareebjamal/opencv-android/4.0.1)
 
 #### 3.x
+- [3.4.8-contrib](https://jitpack.io/#iamareebjamal/opencv-android/3.4.8-contrib)
+- [3.4.8](https://jitpack.io/#iamareebjamal/opencv-android/3.4.8)
 - [3.4.7-contrib](https://jitpack.io/#iamareebjamal/opencv-android/3.4.7-contrib)
 - [3.4.7](https://jitpack.io/#iamareebjamal/opencv-android/3.4.7)
 - [3.4.6](https://jitpack.io/#iamareebjamal/opencv-android/3.4.6)
